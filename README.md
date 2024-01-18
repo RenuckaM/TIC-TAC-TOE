@@ -3,12 +3,8 @@ TIC TAC TOE GAME using HTML, CSS3 and JavaScript
 
 This is a simple implementation of the Tic Tac Toe game using HTML, CSS3, and JavaScript. The game allows two players to take turns marking spaces on a 3x3 grid until one of them wins or the game ends in a draw.
 
-## Demo
+## Screenshots
 
-You can play the game live [here](https://renuckam.github.io/TIC-TAC-TOE/).
-
-<link rel="stylesheet" type="text/css" href="styleee.css"> 
-<script src="scripttt.js"></script> 
 
 ## Features
 
