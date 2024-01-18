@@ -37,7 +37,7 @@ You can play the game live [here](https://renuckam.github.io/TIC-TAC-TOE/).
 
 1. Clone the repository:
 
-     git clone https://github.com/your-username/tic-tac-toe.git
+         git clone https://github.com/your-username/tic-tac-toe.git
    
 
 2. Open `indexxx.html` in your preferred web browser.
