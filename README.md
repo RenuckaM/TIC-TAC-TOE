@@ -6,8 +6,7 @@ This is a simple implementation of the Tic Tac Toe game using HTML, CSS3, and Ja
 ## Screenshots
 ![image](https://github.com/RenuckaM/TIC-TAC-TOE/assets/147283564/ad5f4c2e-04c1-45fe-b855-f00a42decf0a)
 ![image](https://github.com/RenuckaM/TIC-TAC-TOE/assets/147283564/fb90c82e-0c71-4aaf-a15c-a384757d19d7)
-
-
+![image](https://github.com/RenuckaM/TIC-TAC-TOE/assets/147283564/9ada1d04-c3a0-4d72-b741-2abdd9219325)
 
 ## Features
 
