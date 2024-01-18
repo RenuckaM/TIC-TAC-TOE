@@ -7,6 +7,9 @@ This is a simple implementation of the Tic Tac Toe game using HTML, CSS3, and Ja
 
 You can play the game live [here](https://renuckam.github.io/TIC-TAC-TOE/).
 
+<link rel="stylesheet" type="text/css" href="styleee.css"> 
+	<script src="scripttt.js"></script> 
+
 ## Features
 
 1. Responsive design for various screen sizes.
