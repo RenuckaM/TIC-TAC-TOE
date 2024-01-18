@@ -5,7 +5,7 @@ This is a simple implementation of the Tic Tac Toe game using HTML, CSS3, and Ja
 
 ## Demo
 
-You can play the game live [here](link-to-your-demo).
+You can play the game live [here](https://renuckam.github.io/TIC-TAC-TOE/).
 
 ## Features
 
